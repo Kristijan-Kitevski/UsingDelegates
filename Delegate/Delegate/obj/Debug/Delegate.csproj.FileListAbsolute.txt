@@ -1,0 +1,7 @@
+Z:\C#\Advanced\c5_Delegate\Delegate\Delegate\bin\Debug\Delegate.exe.config
+Z:\C#\Advanced\c5_Delegate\Delegate\Delegate\bin\Debug\Delegate.exe
+Z:\C#\Advanced\c5_Delegate\Delegate\Delegate\bin\Debug\Delegate.pdb
+Z:\C#\Advanced\c5_Delegate\Delegate\Delegate\obj\Debug\Delegate.csprojAssemblyReference.cache
+Z:\C#\Advanced\c5_Delegate\Delegate\Delegate\obj\Debug\Delegate.csproj.CoreCompileInputs.cache
+Z:\C#\Advanced\c5_Delegate\Delegate\Delegate\obj\Debug\Delegate.exe
+Z:\C#\Advanced\c5_Delegate\Delegate\Delegate\obj\Debug\Delegate.pdb
